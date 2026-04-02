@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail18.png" width="800">
+</p>
+
 # 🚗 License Plate Recognition using OpenCV & Tesseract (Real-Time)
 
 A real-time License Plate Recognition system built using **Python, OpenCV, and Tesseract OCR**. This project detects vehicle number plates from images or webcam feed and extracts the text automatically.
@@ -104,6 +108,12 @@ python main.py
 * 🎯 Improve OCR accuracy with preprocessing
 
 ---
+
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/license-plate-recognition.git)
 
 ## 🤝 Contributing
 
